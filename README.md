@@ -16,7 +16,7 @@ In today’s digital age, smartphones are central to our lives, storing sensitiv
 
 - Weak passwords are the easiest entry point for hackers. A 6-character password can be cracked in seconds using brute-force attacks, while a 12+ character password with a mix of letters, numbers, and symbols takes significantly longer, often years, to break. Strong passwords are your first line of defense.
 
-<img src="WeakPassword.png" height = "185" width = "300" style="padding-left: 40px">
+<img src="src/WeakPassword.png" height = "185" width = "300" style="padding-left: 40px">
 
 - Create passwords with at least 12 characters, combining uppercase, lowercase, numbers, and special characters.
 - Avoid predictable patterns like "Password123" or personal info like birthdays.
@@ -37,7 +37,7 @@ Managing multiple strong, unique passwords without a password manager is nearly 
 ## 3. Never Reuse Passwords
 - Reusing passwords across accounts is a major vulnerability. If one account is compromised (e.g., through a data breach), hackers can use the same credentials to access other accounts, like your email or bank. Unique passwords limit the damage of a single breach.
 
-<img src="SamePassword.png" height = "185" width = "300" style="padding-left: 40px">
+<img src="src/SamePassword.png" height = "185" width = "300" style="padding-left: 40px">
 
 - Use a password manager to generate and store unique passwords for every account.
 - **Example**: If your Netflix password is “Stream!2025xZ”, your banking app should have a completely different password, like “B@nK$3cur3#9mP”.
@@ -56,7 +56,7 @@ Managing multiple strong, unique passwords without a password manager is nearly 
 ## 6. Limit App Permissions
 - Apps often request unnecessary permissions, like camera access for a calculator app, which can be exploited to spy or steal data. Limiting permissions reduces the risk of apps accessing sensitive information without justification.
 
-<img src="LimitedPermission.png" height = "185"  style="padding-left: 40px">
+<img src="src/LimitedPermission.png" height = "185"  style="padding-left: 40px">
 
 - Review permissions during app installation and revoke unnecessary ones.
 - On Android, go to Settings > Apps > [App Name] > Permissions to manage access.
@@ -80,7 +80,7 @@ A weak screen lock, like a 4-digit PIN, can be easily guessed or bypassed. A str
 ## 9. Use a VPN
 - Public Wi-Fi networks, like those in cafes or airports, are often insecure, allowing hackers to intercept your data. A Virtual Private Network (VPN) encrypts your internet traffic, protecting your browsing activity and sensitive information.
 
-<img src="VPN.jpg" height = "185"  style="padding-left: 40px">
+<img src="src/VPN.jpg" height = "185"  style="padding-left: 40px">
 
 - Choose a reputable VPN provider like **ProtonVPN** or **NordVPN**.
 - Enable the VPN when using public Wi-Fi or untrusted networks.
@@ -95,7 +95,7 @@ A weak screen lock, like a 4-digit PIN, can be easily guessed or bypassed. A str
 ### Why It Matters
 Phishing attacks via SMS, email, or malicious links trick users into revealing credentials or installing malware. Ignoring suspicious messages prevents you from falling victim to these scams.
 
-<img src="SpamSMS.jpg" height = "185" style="padding-left: 40px">
+<img src="src/SpamSMS.jpg" height = "185" style="padding-left: 40px">
 
 - Don’t click links in unsolicited texts or emails.
 - Verify the sender’s identity before responding.
@@ -104,7 +104,7 @@ Phishing attacks via SMS, email, or malicious links trick users into revealing c
 ## 12. Restart Your Phone Regularly
 - Restarting your phone clears temporary files, closes background processes, and can disrupt persistent threats like malware or tracking scripts. Weekly reboots help maintain your device’s security and performance.
 
-<img src="RestartPhone.jpg" height = "185" style="padding-left: 40px">
+<img src="src/RestartPhone.jpg" height = "185" style="padding-left: 40px">
 
 - Restart your phone every 7–10 days or after installing new apps.
 - Use the power button or Settings > Restart option.
